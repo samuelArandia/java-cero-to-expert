@@ -1,2 +1,2 @@
-# java-cero-to-expert
-Máster Completo en Java de cero a experto 2023 (+127 hrs)
+
+# Máster Completo en Java de cero a experto 2023 (+127 hrs)
