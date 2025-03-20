@@ -7,6 +7,7 @@ public class HolaMundo {
         String nombre = "Samuel";
         String saludar = " Hola desde java, ";
         System.out.println(saludar + nombre.toUpperCase());
+        System.out.println("saludar = " + saludar);
 
         int numero = 10;
         System.out.println("numero = " + numero);
@@ -17,8 +18,15 @@ public class HolaMundo {
             System.out.println("valor = " + valor);
             numero2= 12;
         }
-            System.out.println("Es falso y el numero es: " + numero2 );
+        System.out.println("Es falso y el numero es: " + numero2 );
 
+        var numero3 = "15";
+        String name;
+        name = "Samuel";
 
+        if (numero > 10) {
+            name = "Lorenzo";
+        }
+        System.out.println("name = " + name);
     }
 }
